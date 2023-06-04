@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+
+  .body{
+    height:100%;
+  }
+
+  .bg-nav{
+    background-color: #353A40;
+  
+}
+
+.nav-a{
+    color: #6C757C;
+}
+  
+.logo{
+    margin-left: 4rem;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    margin-top: 7rem;
+    align-content: center;
+}
+
+.card{
+    border-radius: 0;
+}
+
+
+.negro{
+    color: black;
+}
+
+.porcentaje{    
+    font-weight: bold;
+}
+
+
+.gris{
+    color: grey;
+}
+
+.centrar{
+    text-align: center;
+}
+
+
+.venta{
+    text-transform: uppercase;
+}
+
+.izquierda{
+    text-align: left;
+}
+.formulario{
+    width: 52%;
+    /*border: 1px solid black;*/
+   margin: auto;
+}
+
+.btn-green{
+    background-color: #97C93E;
+    color: white;
+}
+
+.blue{
+    display: inline-block;
+    width: 100%;
+    background-color: #CCE5FF;
+    border-radius: 7px;
+    padding-left: 12px;
+    text-align: left;
+}
+
+.margen{
+    margin-bottom: 4 rem;
+}
+
+/*FOOTER*/
+.bg-footer{
+    background-color: #1C3846;
+}
+
+.footer{
+    display: flex;
+    height: 10vh;
+    justify-content: space-evenly;  
+}
+
+.footer-link{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    margin-right: 5vh;
+}
